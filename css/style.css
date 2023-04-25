@@ -286,7 +286,7 @@ a:hover {
     padding-left: 16px;
 }
 
-.login-utils::before {
+.login-utils li::before {
     content: "";
     display: block;
     position: absolute;
